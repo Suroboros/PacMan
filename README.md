@@ -1,2 +1,2 @@
 # PacMan
- UE5 practice with Pac Man like
+ UE5 practice with a simple Pac Man like game
